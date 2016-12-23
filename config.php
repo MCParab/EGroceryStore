@@ -1,7 +1,7 @@
 <?php 
 $dbhost="localhost";
 $dbusername="root";
-$dbpassword="mithilesh";
+$dbpassword=""; /* password */
 $database="EGroceryStore";
 
 ?>
